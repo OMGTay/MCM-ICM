@@ -1,2 +1,1 @@
-# 2004-2017美赛O奖论文
-如果对你有用的话，点击一下Star，谢谢~
+forked from [dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)
